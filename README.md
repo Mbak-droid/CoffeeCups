@@ -1,2 +1,2 @@
 # CoffeeCupsProject
-This is a project for the course WYWM/SoftwarePathway/IntermediateWebDev
+This is a project for testing on melly.tech
